@@ -8,7 +8,7 @@ plt = platform.system()
 if plt == 'Linux': pathlib.WindowsPath =pathlib.PosixPath
 
 #Title
-st.title('Classification model')
+st.title('Classification model(Couch,Sofa,Table)')
 
 
 #rasm yuklash
